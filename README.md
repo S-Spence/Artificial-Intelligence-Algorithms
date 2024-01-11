@@ -34,5 +34,6 @@ The following section provides a summary of the algorithms in each notebook. See
 
 
 
-**References**
+### References
+
 [1] S. Russel and P, Norvig. "Artificial Intelligence A Modern Approach, Fourth Edition," Pearson Education Inc, 2021. 
