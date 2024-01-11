@@ -8,7 +8,7 @@ This repository stores custom implementations of AI algorithms from an Artificia
 - Run `conda env create -f environment.yml` to create an environment with the necessary dependencies. 
 
 
-## Algorithms:
+## Algorithms
 
 The following section provides a summary of the algorithms in each notebook. See the function documentation within each notebook for more details about each algorithm.
 
@@ -34,5 +34,5 @@ The following section provides a summary of the algorithms in each notebook. See
 
 
 
-                                     **References**
+**References**
 [1] S. Russel and P, Norvig. "Artificial Intelligence A Modern Approach, Fourth Edition," Pearson Education Inc, 2021. 
